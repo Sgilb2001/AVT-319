@@ -1,5 +1,18 @@
+body{
+  background-color: mistyrose;
+}
+h1{
+  color: darkmagenta;
+    text-align: center;
+    font-family: Palatino, URW Palladio L, serif;
+}
+h2{
+  color: darkmagenta;
+    text-align: center;
+}
+
 button {
-    background-color: dodgerblue;
+    background-color: hotpink;
     border: none;
     border-radius: 10px;
     color: white;
@@ -14,7 +27,7 @@ button {
      transition: 0.4s;
   }
   button:hover{
-    background-color: skyblue;
+    background-color: lightpink;
   }
   .flex-container{
     display: flex;
